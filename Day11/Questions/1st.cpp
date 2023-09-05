@@ -5,7 +5,7 @@
 using namespace std;
 int main()
 {
-    vector<int> arr{10,20,30,40,4,5,3,5,3,22,7,13,12,3,4};
+     vector<int> arr{10,20,30,40,4,5,3,5,3,22,7,13,12,3,4};
     int sum;
     cout<<"Enter the Sum: "<<endl;
     cin>>sum;
